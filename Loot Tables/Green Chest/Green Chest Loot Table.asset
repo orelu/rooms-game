@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb8b672a2bb4dbf41a1e8f2cc687261d, type: 3}
+  m_Name: Green Chest Loot Table
+  m_EditorClassIdentifier: 
+  lootEntries:
+  - {fileID: 11400000, guid: 168e84168cbe0a941aa6b30678954025, type: 2}
+  - {fileID: 11400000, guid: 318bb67b58dd303439dcd591e13c8aa7, type: 2}
+  - {fileID: 11400000, guid: f8df4366c1eea4242ab73c094ff2fdfc, type: 2}
+  - {fileID: 11400000, guid: 40aac50ccc4889e48804e6cd24cff80a, type: 2}
+  - {fileID: 11400000, guid: 858e7b8e87b4f084396d6f62efc905ee, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d462aa05bcb90944ae506fb3524e199, type: 3}
+  m_Name: Vault Key
+  m_EditorClassIdentifier: 
+  name: Vault Key
+  icon: {fileID: 449876315, guid: 3ab3ba6b06f0b27489620d390d121456, type: 3}
+  isBreakable: 0
+  scale: {x: 0.25, y: 0.25, z: 0.25}
+  position: {x: 0.5, y: 0.1, z: 0}
+  isDefaultItem: 0
+  attackRate: 1
+  strengthModifier: 0
+  defenceModifier: 0
+  speedModifier: 0
+  glowModifier: 0
+  itemID: 15

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d462aa05bcb90944ae506fb3524e199, type: 3}
+  m_Name: Health Booster
+  m_EditorClassIdentifier: 
+  name: Health Max Increaser
+  icon: {fileID: 823641155, guid: bd17d9a70df109646b651d0d5f47cae1, type: 3}
+  isBreakable: 1
+  durability: 1
+  isDefaultItem: 0
+  size: 1.5
+  strengthModifier: 0
+  defenceModifier: 0
+  speedModifier: 0
+  itemID: 5
